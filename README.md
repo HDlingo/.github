@@ -1,5 +1,2 @@
-### [Welcome To Our Co. Group][1]
+### Welcome To Our Co. Group:tada::tada::tada:
 
-
-
-[1]:https::www.hdlingo.com
