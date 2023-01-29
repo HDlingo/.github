@@ -2,4 +2,4 @@
 
 
 
-[1]:www.hdlingo.com
+[1]:http::www.hdlingo.com
